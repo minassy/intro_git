@@ -4,5 +4,3 @@ test追加
 
 git_add
 git_commit
-
-git_remove
